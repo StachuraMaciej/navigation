@@ -3,5 +3,5 @@ Simple sticky navigation for website. The CSS is used to define the position of 
 ## Technologies
 Project is created with:
 * HTML
-* CSS/SCSS
+* CSS
 * JavaScript
